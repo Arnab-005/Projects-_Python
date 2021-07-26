@@ -1,4 +1,4 @@
-############################################CREATED BY ARNAB DEY#################################
+
 from tkinter import *
 import random
 
@@ -346,7 +346,3 @@ class Bill_App:
 root = Tk()
 object = Bill_App(root)
 root.mainloop()
-
-
-
-############################################CREATED BY ARNAB DEY#################################
